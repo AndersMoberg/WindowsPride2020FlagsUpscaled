@@ -1,14 +1,14 @@
-# 'Windows Pride 2020 Flags' upscaled
-Upscaling of the wallpapers in the Windows Pride 2020 flags theme to 4k. There are **18 wallpapers** in total.
+Upscaling of the wallpapers in the 'Windows Pride 2020 flags' theme to 4k. There are **18 wallpapers** in total.
 
-### Examples
+[<- Go back](https://a-moberg.com/)
 
-![Alt text](example_bi.jpg)
+### They look like this!
 ![Alt text](example_nonbinary.jpg)
-![Alt text](example_trans.jpg)
+
+*A tiny thumbnail NOT-lossless example of these wallpapers.*
 
 ### Download
-[Here!](https://github.com/AndersMoberg/WindowsPride2020FlagsUpscaled/releases/tag/v1.0)
+[v1.0 on Github](https://github.com/AndersMoberg/WindowsPride2020FlagsUpscaled/releases/tag/v1.0)
 
 ###### Tools used
 - Upscayl 2.5.5 (Digital Art)
@@ -17,6 +17,8 @@ Upscaling of the wallpapers in the Windows Pride 2020 flags theme to 4k. There a
 
 My first attempt at upscaling. The original wallpapers are really nice, but are very noisy due to the JPG artifacts. I don't pretend these are excellent results but it's fair enough, and I'm not intersted in going down the rabbit hole of what methods one should use.. what scaler / model is better / worse, what PNG optimizer to use, what image format to change to, etc.
 
-[Get the original Windows 10 theme here](https://apps.microsoft.com/store/detail/9PK6DD3SHC26?hl=en-us&gl=US)
+[You can find the original Windows 10 theme here.](https://apps.microsoft.com/store/detail/9PK6DD3SHC26?hl=en-us&gl=US)
 
-I achknowledge that the original assets are owned by the Microsoft Corporation, and not by me. No rights reserved.
+# 🌈🏳️‍🌈 Happy pride!
+
+*I achknowledge that the original assets are owned by the Microsoft Corporation, and not by me. No rights reserved.*
