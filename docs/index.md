@@ -1,11 +1,11 @@
-Upscaling of the wallpapers in the 'Windows Pride 2020 flags' theme to 4k. There are **18 wallpapers** in total.
-
-[<- Go back](https://a-moberg.com/)
-
-### They look like this!
+---
+title: 'Windows Pride 2020 Flags' upscaled
+---
 ![Alt text](example_nonbinary.jpg)
 
 *A tiny thumbnail NOT-lossless example of these wallpapers.*
+
+Upscaling of the wallpapers in the 'Windows Pride 2020 flags' theme to 4k. There are **18 wallpapers** in total.
 
 ### Download
 [v1.0 on Github](https://github.com/AndersMoberg/WindowsPride2020FlagsUpscaled/releases/tag/v1.0)
