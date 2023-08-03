@@ -1,6 +1,9 @@
 ---
 title: 'Windows Pride 2020 Flags' upscaled
 ---
+<meta property="og:image" content="https://a-moberg.com/WindowsPride2020FlagsUpscaled/example_nonbinary.jpg" />
+<meta property="twitter:image" content="https://a-moberg.com/WindowsPride2020FlagsUpscaled/example_nonbinary.jpg" />
+
 ![Alt text](example_nonbinary.jpg)
 
 *A tiny thumbnail NOT-lossless example of these wallpapers.*
